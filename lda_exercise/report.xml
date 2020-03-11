@@ -1,0 +1,223 @@
+<?xml version='1.0' ?>
+<topicModel>
+  <topic id='0' alpha='0.10286323878221175' totalTokens='10954'>
+	<word rank='1' count='64.0'>harry</word>
+	<word rank='2' count='60.0'>arnold</word>
+	<word rank='3' count='56.0'>wife</word>
+	<word rank='4' count='49.0'>tarzan</word>
+	<word rank='5' count='38.0'>devil</word>
+	<word rank='6' count='38.0'>king</word>
+	<word rank='7' count='36.0'>stallone</word>
+	<word rank='8' count='35.0'>schwarzenegger</word>
+	<word rank='9' count='28.0'>noir</word>
+	<word rank='10' count='28.0'>days</word>
+	<word rank='11' count='27.0'>jane</word>
+	<word rank='12' count='27.0'>city</word>
+	<word rank='13' count='25.0'>crawford</word>
+	<word rank='14' count='24.0'>jimmy</word>
+	<word rank='15' count='24.0'>helen</word>
+	<word rank='16' count='24.0'>carter</word>
+	<word rank='17' count='24.0'>gabriel</word>
+	<word rank='18' count='23.0'>lawyer</word>
+	<word rank='19' count='23.0'>woman</word>
+	<word rank='20' count='22.0'>allen</word>
+  </topic>
+  <topic id='1' alpha='0.08883837026982852' totalTokens='8557'>
+	<word rank='1' count='110.0'>godzilla</word>
+	<word rank='2' count='66.0'>horror</word>
+	<word rank='3' count='58.0'>max</word>
+	<word rank='4' count='58.0'>house</word>
+	<word rank='5' count='54.0'>snake</word>
+	<word rank='6' count='54.0'>scary</word>
+	<word rank='7' count='51.0'>wrestling</word>
+	<word rank='8' count='49.0'>effects</word>
+	<word rank='9' count='40.0'>giant</word>
+	<word rank='10' count='39.0'>seagal</word>
+	<word rank='11' count='37.0'>anaconda</word>
+	<word rank='12' count='36.0'>witch</word>
+	<word rank='13' count='36.0'>blair</word>
+	<word rank='14' count='34.0'>special</word>
+	<word rank='15' count='33.0'>york</word>
+	<word rank='16' count='32.0'>haunting</word>
+	<word rank='17' count='31.0'>monster</word>
+	<word rank='18' count='30.0'>king</word>
+	<word rank='19' count='26.0'>wcw</word>
+	<word rank='20' count='26.0'>broderick</word>
+  </topic>
+  <topic id='2' alpha='0.11934882430257891' totalTokens='14157'>
+	<word rank='1' count='125.0'>alien</word>
+	<word rank='2' count='120.0'>planet</word>
+	<word rank='3' count='106.0'>mars</word>
+	<word rank='4' count='104.0'>ship</word>
+	<word rank='5' count='100.0'>earth</word>
+	<word rank='6' count='93.0'>space</word>
+	<word rank='7' count='89.0'>effects</word>
+	<word rank='8' count='85.0'>mission</word>
+	<word rank='9' count='68.0'>aliens</word>
+	<word rank='10' count='63.0'>spawn</word>
+	<word rank='11' count='61.0'>species</word>
+	<word rank='12' count='61.0'>battle</word>
+	<word rank='13' count='60.0'>humans</word>
+	<word rank='14' count='58.0'>crew</word>
+	<word rank='15' count='57.0'>virus</word>
+	<word rank='16' count='54.0'>science</word>
+	<word rank='17' count='53.0'>apes</word>
+	<word rank='18' count='49.0'>sci-fi</word>
+	<word rank='19' count='49.0'>human</word>
+	<word rank='20' count='49.0'>special</word>
+  </topic>
+  <topic id='3' alpha='0.11086288716279281' totalTokens='11498'>
+	<word rank='1' count='79.0'>sex</word>
+	<word rank='2' count='50.0'>julia</word>
+	<word rank='3' count='44.0'>love</word>
+	<word rank='4' count='42.0'>comedy</word>
+	<word rank='5' count='41.0'>wedding</word>
+	<word rank='6' count='37.0'>studio</word>
+	<word rank='7' count='35.0'>party</word>
+	<word rank='8' count='32.0'>kate</word>
+	<word rank='9' count='32.0'>romantic</word>
+	<word rank='10' count='31.0'>ben</word>
+	<word rank='11' count='31.0'>sexual</word>
+	<word rank='12' count='29.0'>roberts</word>
+	<word rank='13' count='29.0'>drug</word>
+	<word rank='14' count='28.0'>jawbreaker</word>
+	<word rank='15' count='27.0'>erotic</word>
+	<word rank='16' count='25.0'>lucy</word>
+	<word rank='17' count='24.0'>eszterhas</word>
+	<word rank='18' count='24.0'>friends</word>
+	<word rank='19' count='23.0'>elizabeth</word>
+	<word rank='20' count='22.0'>crystal</word>
+  </topic>
+  <topic id='4' alpha='0.12021429048683971' totalTokens='11571'>
+	<word rank='1' count='96.0'>scream</word>
+	<word rank='2' count='93.0'>school</word>
+	<word rank='3' count='76.0'>girls</word>
+	<word rank='4' count='70.0'>horror</word>
+	<word rank='5' count='69.0'>killer</word>
+	<word rank='6' count='66.0'>high</word>
+	<word rank='7' count='65.0'>julie</word>
+	<word rank='8' count='58.0'>nbsp</word>
+	<word rank='9' count='55.0'>series</word>
+	<word rank='10' count='53.0'>summer</word>
+	<word rank='11' count='53.0'>urban</word>
+	<word rank='12' count='52.0'>spice</word>
+	<word rank='13' count='46.0'>teen</word>
+	<word rank='14' count='41.0'>slasher</word>
+	<word rank='15' count='39.0'>home</word>
+	<word rank='16' count='37.0'>television</word>
+	<word rank='17' count='36.0'>sequel</word>
+	<word rank='18' count='35.0'>legend</word>
+	<word rank='19' count='31.0'>jennifer</word>
+	<word rank='20' count='29.0'>disney</word>
+  </topic>
+  <topic id='5' alpha='0.14221309177689131' totalTokens='14734'>
+	<word rank='1' count='256.0'>action</word>
+	<word rank='2' count='89.0'>west</word>
+	<word rank='3' count='87.0'>van</word>
+	<word rank='4' count='79.0'>wild</word>
+	<word rank='5' count='56.0'>smith</word>
+	<word rank='6' count='51.0'>damme</word>
+	<word rank='7' count='50.0'>vampires</word>
+	<word rank='8' count='47.0'>james</word>
+	<word rank='9' count='43.0'>jackie</word>
+	<word rank='10' count='41.0'>killer</word>
+	<word rank='11' count='41.0'>kong</word>
+	<word rank='12' count='39.0'>vampire</word>
+	<word rank='13' count='39.0'>hong</word>
+	<word rank='14' count='39.0'>chinese</word>
+	<word rank='15' count='38.0'>police</word>
+	<word rank='16' count='38.0'>simon</word>
+	<word rank='17' count='37.0'>jones</word>
+	<word rank='18' count='37.0'>cop</word>
+	<word rank='19' count='36.0'>woo</word>
+	<word rank='20' count='36.0'>agent</word>
+  </topic>
+  <topic id='6' alpha='0.14046397277112346' totalTokens='13779'>
+	<word rank='1' count='175.0'>comedy</word>
+	<word rank='2' count='154.0'>funny</word>
+	<word rank='3' count='106.0'>jokes</word>
+	<word rank='4' count='75.0'>humor</word>
+	<word rank='5' count='74.0'>murphy</word>
+	<word rank='6' count='74.0'>eddie</word>
+	<word rank='7' count='65.0'>brothers</word>
+	<word rank='8' count='52.0'>gags</word>
+	<word rank='9' count='50.0'>carrey</word>
+	<word rank='10' count='49.0'>laughs</word>
+	<word rank='11' count='44.0'>team</word>
+	<word rank='12' count='42.0'>jim</word>
+	<word rank='13' count='39.0'>professor</word>
+	<word rank='14' count='39.0'>chris</word>
+	<word rank='15' count='38.0'>football</word>
+	<word rank='16' count='38.0'>comic</word>
+	<word rank='17' count='38.0'>flubber</word>
+	<word rank='18' count='36.0'>coach</word>
+	<word rank='19' count='35.0'>league</word>
+	<word rank='20' count='34.0'>sandler</word>
+  </topic>
+  <topic id='7' alpha='0.10560224260268689' totalTokens='10870'>
+	<word rank='1' count='135.0'>batman</word>
+	<word rank='2' count='96.0'>joe</word>
+	<word rank='3' count='82.0'>robin</word>
+	<word rank='4' count='60.0'>tom</word>
+	<word rank='5' count='57.0'>ryan</word>
+	<word rank='6' count='51.0'>patch</word>
+	<word rank='7' count='47.0'>schumacher</word>
+	<word rank='8' count='38.0'>joel</word>
+	<word rank='9' count='36.0'>cage</word>
+	<word rank='10' count='34.0'>mother</word>
+	<word rank='11' count='33.0'>alicia</word>
+	<word rank='12' count='32.0'>love</word>
+	<word rank='13' count='31.0'>welles</word>
+	<word rank='14' count='31.0'>daughter</word>
+	<word rank='15' count='30.0'>meg</word>
+	<word rank='16' count='29.0'>romantic</word>
+	<word rank='17' count='29.0'>father</word>
+	<word rank='18' count='28.0'>romance</word>
+	<word rank='19' count='28.0'>death</word>
+	<word rank='20' count='27.0'>young</word>
+  </topic>
+  <topic id='8' alpha='0.11600303191450487' totalTokens='10210'>
+	<word rank='1' count='48.0'>reeves</word>
+	<word rank='2' count='37.0'>keanu</word>
+	<word rank='3' count='34.0'>lynch</word>
+	<word rank='4' count='34.0'>deep</word>
+	<word rank='5' count='34.0'>space</word>
+	<word rank='6' count='33.0'>impact</word>
+	<word rank='7' count='32.0'>armageddon</word>
+	<word rank='8' count='30.0'>disaster</word>
+	<word rank='9' count='29.0'>freeman</word>
+	<word rank='10' count='29.0'>earth</word>
+	<word rank='11' count='26.0'>joan</word>
+	<word rank='12' count='26.0'>harry</word>
+	<word rank='13' count='25.0'>dvd</word>
+	<word rank='14' count='24.0'>comet</word>
+	<word rank='15' count='23.0'>morgan</word>
+	<word rank='16' count='23.0'>version</word>
+	<word rank='17' count='23.0'>theatrical</word>
+	<word rank='18' count='22.0'>war</word>
+	<word rank='19' count='20.0'>slater</word>
+	<word rank='20' count='19.0'>johnny</word>
+  </topic>
+  <topic id='9' alpha='1.9035211256451823' totalTokens='167411'>
+	<word rank='1' count='3990.0'>film</word>
+	<word rank='2' count='3048.0'>movie</word>
+	<word rank='3' count='1808.0'>it's</word>
+	<word rank='4' count='1128.0'>good</word>
+	<word rank='5' count='1112.0'>time</word>
+	<word rank='6' count='1017.0'>bad</word>
+	<word rank='7' count='889.0'>character</word>
+	<word rank='8' count='886.0'>story</word>
+	<word rank='9' count='863.0'>characters</word>
+	<word rank='10' count='840.0'>plot</word>
+	<word rank='11' count='806.0'>make</word>
+	<word rank='12' count='664.0'>doesn't</word>
+	<word rank='13' count='651.0'>people</word>
+	<word rank='14' count='650.0'>don't</word>
+	<word rank='15' count='645.0'>scene</word>
+	<word rank='16' count='631.0'>films</word>
+	<word rank='17' count='623.0'>scenes</word>
+	<word rank='18' count='572.0'>he's</word>
+	<word rank='19' count='565.0'>man</word>
+	<word rank='20' count='550.0'>movies</word>
+  </topic>
+</topicModel>

@@ -1,0 +1,423 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.10286323878221175" totalTokens="10954" titles="harry, arnold, wife, tarzan, devil, king, stallone, schwarzenegger, noir, days">
+	<word weight="0.005842614570020084" count="64">harry</word>
+	<word weight="0.005477451159393828" count="60">arnold</word>
+	<word weight="0.005112287748767573" count="56">wife</word>
+	<word weight="0.004473251780171627" count="49">tarzan</word>
+	<word weight="0.003469052400949425" count="38">devil</word>
+	<word weight="0.003469052400949425" count="38">king</word>
+	<word weight="0.0032864706956362974" count="36">stallone</word>
+	<word weight="0.0031951798429797336" count="35">schwarzenegger</word>
+	<word weight="0.0025561438743837866" count="28">noir</word>
+	<word weight="0.0025561438743837866" count="28">days</word>
+	<word weight="0.002464853021727223" count="27">jane</word>
+	<word weight="0.002464853021727223" count="27">city</word>
+	<word weight="0.0022822713164140952" count="25">crawford</word>
+	<word weight="0.0021909804637575314" count="24">jimmy</word>
+	<word weight="0.0021909804637575314" count="24">helen</word>
+	<word weight="0.0021909804637575314" count="24">carter</word>
+	<word weight="0.0021909804637575314" count="24">gabriel</word>
+	<word weight="0.0020996896111009676" count="23">lawyer</word>
+	<word weight="0.0020996896111009676" count="23">woman</word>
+	<word weight="0.002008398758444404" count="22">allen</word>
+	<phrase weight="0.003676470588235294" count="5">sylvester stallone</phrase>
+	<phrase weight="0.0029411764705882353" count="4">jane march</phrase>
+	<phrase weight="0.0029411764705882353" count="4">excess baggage</phrase>
+	<phrase weight="0.0029411764705882353" count="4">reese witherspoon</phrase>
+	<phrase weight="0.0029411764705882353" count="4">skin deep</phrase>
+	<phrase weight="0.0022058823529411764" count="3">van dien</phrase>
+	<phrase weight="0.0022058823529411764" count="3">gabriel byrne</phrase>
+	<phrase weight="0.0022058823529411764" count="3">reindeer games</phrase>
+	<phrase weight="0.0022058823529411764" count="3">del toro</phrase>
+	<phrase weight="0.0022058823529411764" count="3">yang kuei-mei</phrase>
+	<phrase weight="0.0022058823529411764" count="3">terry gilliam</phrase>
+	<phrase weight="0.0022058823529411764" count="3">elisabeth shue</phrase>
+	<phrase weight="0.0022058823529411764" count="3">viggo mortensen</phrase>
+	<phrase weight="0.0014705882352941176" count="2">juliette lewis</phrase>
+	<phrase weight="0.0014705882352941176" count="2">raoul walsh</phrase>
+	<phrase weight="0.0014705882352941176" count="2">recurring recurring</phrase>
+	<phrase weight="0.0014705882352941176" count="2">catholic church</phrase>
+	<phrase weight="0.0014705882352941176" count="2">melanie griffith</phrase>
+	<phrase weight="0.0014705882352941176" count="2">dial murder</phrase>
+	<phrase weight="0.0014705882352941176" count="2">bargain basement</phrase>
+  </topic>
+  <topic id="1" alpha="0.08883837026982852" totalTokens="8557" titles="godzilla, horror, max, house, snake, scary, wrestling, effects, giant, seagal">
+	<word weight="0.012854972537104126" count="110">godzilla</word>
+	<word weight="0.007712983522262475" count="66">horror</word>
+	<word weight="0.0067780764286549024" count="58">max</word>
+	<word weight="0.0067780764286549024" count="58">house</word>
+	<word weight="0.006310622881851116" count="54">snake</word>
+	<word weight="0.006310622881851116" count="54">scary</word>
+	<word weight="0.005960032721748276" count="51">wrestling</word>
+	<word weight="0.005726305948346383" count="49">effects</word>
+	<word weight="0.004674535468037864" count="40">giant</word>
+	<word weight="0.004557672081336917" count="39">seagal</word>
+	<word weight="0.004323945307935024" count="37">anaconda</word>
+	<word weight="0.004207081921234077" count="36">witch</word>
+	<word weight="0.004207081921234077" count="36">blair</word>
+	<word weight="0.0039733551478321845" count="34">special</word>
+	<word weight="0.0038564917611312375" count="33">york</word>
+	<word weight="0.003739628374430291" count="32">haunting</word>
+	<word weight="0.0036227649877293446" count="31">monster</word>
+	<word weight="0.0035059016010283977" count="30">king</word>
+	<word weight="0.0030384480542246114" count="26">wcw</word>
+	<word weight="0.0030384480542246114" count="26">broderick</word>
+	<phrase weight="0.0074142724745134385" count="8">blair witch</phrase>
+	<phrase weight="0.006487488415199258" count="7">watchers reborn</phrase>
+	<phrase weight="0.0037071362372567192" count="4">special effects</phrase>
+	<phrase weight="0.0037071362372567192" count="4">rose mcgowan</phrase>
+	<phrase weight="0.0037071362372567192" count="4">monkey bone</phrase>
+	<phrase weight="0.0027803521779425394" count="3">dallas page</phrase>
+	<phrase weight="0.0027803521779425394" count="3">haunted hill</phrase>
+	<phrase weight="0.0027803521779425394" count="3">jurassic park iii</phrase>
+	<phrase weight="0.0027803521779425394" count="3">lake placid</phrase>
+	<phrase weight="0.0027803521779425394" count="3">houses born</phrase>
+	<phrase weight="0.0027803521779425394" count="3">cave bear</phrase>
+	<phrase weight="0.0027803521779425394" count="3">ready rumble</phrase>
+	<phrase weight="0.0027803521779425394" count="3">jan bont</phrase>
+	<phrase weight="0.0018535681186283596" count="2">taye diggs</phrase>
+	<phrase weight="0.0018535681186283596" count="2">hallucinations projections subconscience paranoia</phrase>
+	<phrase weight="0.0018535681186283596" count="2">kubrick's shining</phrase>
+	<phrase weight="0.0018535681186283596" count="2">bont hichock</phrase>
+	<phrase weight="0.0018535681186283596" count="2">eric stoltz</phrase>
+	<phrase weight="0.0018535681186283596" count="2">marlon wayans</phrase>
+	<phrase weight="0.0018535681186283596" count="2">professional wrestling</phrase>
+  </topic>
+  <topic id="2" alpha="0.11934882430257891" totalTokens="14157" titles="alien, planet, mars, ship, earth, space, effects, mission, aliens, spawn">
+	<word weight="0.008829554284099738" count="125">alien</word>
+	<word weight="0.008476372112735749" count="120">planet</word>
+	<word weight="0.007487462032916579" count="106">mars</word>
+	<word weight="0.0073461891643709825" count="104">ship</word>
+	<word weight="0.007063643427279791" count="100">earth</word>
+	<word weight="0.0065691883873702055" count="93">space</word>
+	<word weight="0.006286642650279014" count="89">effects</word>
+	<word weight="0.006004096913187823" count="85">mission</word>
+	<word weight="0.004803277530550258" count="68">aliens</word>
+	<word weight="0.004450095359186269" count="63">spawn</word>
+	<word weight="0.0043088224906406725" count="61">species</word>
+	<word weight="0.0043088224906406725" count="61">battle</word>
+	<word weight="0.0042381860563678745" count="60">humans</word>
+	<word weight="0.004096913187822278" count="58">crew</word>
+	<word weight="0.004026276753549481" count="57">virus</word>
+	<word weight="0.003814367450731087" count="54">science</word>
+	<word weight="0.0037437310164582893" count="53">apes</word>
+	<word weight="0.0034611852793670975" count="49">sci-fi</word>
+	<word weight="0.0034611852793670975" count="49">human</word>
+	<word weight="0.0034611852793670975" count="49">special</word>
+	<phrase weight="0.005566801619433198" count="11">starship troopers</phrase>
+	<phrase weight="0.00354251012145749" count="7">special effects</phrase>
+	<phrase weight="0.00354251012145749" count="7">deep rising</phrase>
+	<phrase weight="0.00354251012145749" count="7">science fiction</phrase>
+	<phrase weight="0.00354251012145749" count="7">planet apes</phrase>
+	<phrase weight="0.003036437246963563" count="6">mission mars</phrase>
+	<phrase weight="0.0020242914979757085" count="4">mars astronaut</phrase>
+	<phrase weight="0.0020242914979757085" count="4">battlefield earth</phrase>
+	<phrase weight="0.0020242914979757085" count="4">natasha henstridge</phrase>
+	<phrase weight="0.0020242914979757085" count="4">sword sorcerer</phrase>
+	<phrase weight="0.0020242914979757085" count="4">event horizon</phrase>
+	<phrase weight="0.0020242914979757085" count="4">roddy mcdowall</phrase>
+	<phrase weight="0.0015182186234817814" count="3">ice cube</phrase>
+	<phrase weight="0.0015182186234817814" count="3">ghosts mars</phrase>
+	<phrase weight="0.0015182186234817814" count="3">blade runner</phrase>
+	<phrase weight="0.0015182186234817814" count="3">tim burton's</phrase>
+	<phrase weight="0.0015182186234817814" count="3">dustin hoffman</phrase>
+	<phrase weight="0.0015182186234817814" count="3">universal soldier</phrase>
+	<phrase weight="0.0015182186234817814" count="3">mortal kombat</phrase>
+	<phrase weight="0.0015182186234817814" count="3">wing commander</phrase>
+  </topic>
+  <topic id="3" alpha="0.11086288716279281" totalTokens="11498" titles="sex, julia, love, comedy, wedding, studio, party, kate, romantic, ben">
+	<word weight="0.006870760132196904" count="79">sex</word>
+	<word weight="0.0043485823621499395" count="50">julia</word>
+	<word weight="0.0038267524786919464" count="44">love</word>
+	<word weight="0.003652809184205949" count="42">comedy</word>
+	<word weight="0.00356583753696295" count="41">wedding</word>
+	<word weight="0.003217950947990955" count="37">studio</word>
+	<word weight="0.0030440076535049572" count="35">party</word>
+	<word weight="0.002783092711775961" count="32">kate</word>
+	<word weight="0.002783092711775961" count="32">romantic</word>
+	<word weight="0.0026961210645329624" count="31">ben</word>
+	<word weight="0.0026961210645329624" count="31">sexual</word>
+	<word weight="0.0025221777700469646" count="29">roberts</word>
+	<word weight="0.0025221777700469646" count="29">drug</word>
+	<word weight="0.002435206122803966" count="28">jawbreaker</word>
+	<word weight="0.002348234475560967" count="27">erotic</word>
+	<word weight="0.0021742911810749698" count="25">lucy</word>
+	<word weight="0.0020873195338319706" count="24">eszterhas</word>
+	<word weight="0.0020873195338319706" count="24">friends</word>
+	<word weight="0.002000347886588972" count="23">elizabeth</word>
+	<word weight="0.0019133762393459732" count="22">crystal</word>
+	<phrase weight="0.003973509933774834" count="6">susan granger's</phrase>
+	<phrase weight="0.0026490066225165563" count="4">america's sweethearts</phrase>
+	<phrase weight="0.0026490066225165563" count="4">fern mayo</phrase>
+	<phrase weight="0.001986754966887417" count="3">julia roberts</phrase>
+	<phrase weight="0.001986754966887417" count="3">wedding singer</phrase>
+	<phrase weight="0.001986754966887417" count="3">janeane garofalo</phrase>
+	<phrase weight="0.0013245033112582781" count="2">matt dillon</phrase>
+	<phrase weight="0.0013245033112582781" count="2">justin chambers</phrase>
+	<phrase weight="0.0013245033112582781" count="2">morgue attendant</phrase>
+	<phrase weight="0.0013245033112582781" count="2">sunning relaxing paradise shattered one-two-punch punch boulder rolling hill villa punch gal's</phrase>
+	<phrase weight="0.0013245033112582781" count="2">mena suvari</phrase>
+	<phrase weight="0.0013245033112582781" count="2">gal don</phrase>
+	<phrase weight="0.0013245033112582781" count="2">luxurious villa spain</phrase>
+	<phrase weight="0.0013245033112582781" count="2">neve campbell</phrase>
+	<phrase weight="0.0013245033112582781" count="2">lovejoy planning</phrase>
+	<phrase weight="0.0013245033112582781" count="2">press junket</phrase>
+	<phrase weight="0.0013245033112582781" count="2">eddie gwen</phrase>
+	<phrase weight="0.0013245033112582781" count="2">gal dove</phrase>
+	<phrase weight="0.0013245033112582781" count="2">everybody's skin kingsley</phrase>
+	<phrase weight="0.0013245033112582781" count="2">lent respectability</phrase>
+  </topic>
+  <topic id="4" alpha="0.12021429048683971" totalTokens="11571" titles="scream, school, girls, horror, killer, high, julie, nbsp, series, summer">
+	<word weight="0.008296603577910292" count="96">scream</word>
+	<word weight="0.008037334716100596" count="93">school</word>
+	<word weight="0.006568144499178982" count="76">girls</word>
+	<word weight="0.006049606775559589" count="70">horror</word>
+	<word weight="0.0059631838216230235" count="69">killer</word>
+	<word weight="0.005703914959813326" count="66">high</word>
+	<word weight="0.005617492005876761" count="65">julie</word>
+	<word weight="0.005012531328320802" count="58">nbsp</word>
+	<word weight="0.004753262466511105" count="55">series</word>
+	<word weight="0.004580416558637974" count="53">summer</word>
+	<word weight="0.004580416558637974" count="53">urban</word>
+	<word weight="0.004493993604701409" count="52">spice</word>
+	<word weight="0.003975455881082016" count="46">teen</word>
+	<word weight="0.003543341111399188" count="41">slasher</word>
+	<word weight="0.0033704952035260565" count="39">home</word>
+	<word weight="0.003197649295652925" count="37">television</word>
+	<word weight="0.00311122634171636" count="36">sequel</word>
+	<word weight="0.0030248033877797943" count="35">legend</word>
+	<word weight="0.002679111572033532" count="31">jennifer</word>
+	<word weight="0.002506265664160401" count="29">disney</word>
+	<phrase weight="0.0091324200913242" count="14">urban legend</phrase>
+	<phrase weight="0.005218525766470972" count="8">high school</phrase>
+	<phrase weight="0.0045662100456621" count="7">spice girls</phrase>
+	<phrase weight="0.0045662100456621" count="7">rebecca gayheart</phrase>
+	<phrase weight="0.003913894324853229" count="6">inspector gadget</phrase>
+	<phrase weight="0.002609262883235486" count="4">lauren holly</phrase>
+	<phrase weight="0.002609262883235486" count="4">mrs tingle</phrase>
+	<phrase weight="0.002609262883235486" count="4">kelly preston</phrase>
+	<phrase weight="0.002609262883235486" count="4">creaky staying</phrase>
+	<phrase weight="0.0019569471624266144" count="3">dawson's creek</phrase>
+	<phrase weight="0.0019569471624266144" count="3">teen angst</phrase>
+	<phrase weight="0.0019569471624266144" count="3">mrs tingle's</phrase>
+	<phrase weight="0.0019569471624266144" count="3">serial killer</phrase>
+	<phrase weight="0.0019569471624266144" count="3">vegas vacation</phrase>
+	<phrase weight="0.0019569471624266144" count="3">musical pulse</phrase>
+	<phrase weight="0.0019569471624266144" count="3">julie james jennifer</phrase>
+	<phrase weight="0.0019569471624266144" count="3">baby geniuses</phrase>
+	<phrase weight="0.0019569471624266144" count="3">jeff goldblum</phrase>
+	<phrase weight="0.001304631441617743" count="2">that'll pig that'll</phrase>
+	<phrase weight="0.001304631441617743" count="2">powder's chest goldblum</phrase>
+  </topic>
+  <topic id="5" alpha="0.14221309177689131" totalTokens="14734" titles="action, west, van, wild, smith, damme, vampires, james, jackie, killer">
+	<word weight="0.01737477942174562" count="256">action</word>
+	<word weight="0.0060404506583412515" count="89">west</word>
+	<word weight="0.005904710194108864" count="87">van</word>
+	<word weight="0.0053617483371793135" count="79">wild</word>
+	<word weight="0.0038007329985068547" count="56">smith</word>
+	<word weight="0.0034613818379258857" count="51">damme</word>
+	<word weight="0.003393511605809692" count="50">vampires</word>
+	<word weight="0.0031899009094611104" count="47">james</word>
+	<word weight="0.002918419980996335" count="43">jackie</word>
+	<word weight="0.0027826795167639473" count="41">killer</word>
+	<word weight="0.0027826795167639473" count="41">kong</word>
+	<word weight="0.0026469390525315595" count="39">vampire</word>
+	<word weight="0.0026469390525315595" count="39">hong</word>
+	<word weight="0.0026469390525315595" count="39">chinese</word>
+	<word weight="0.0025790688204153658" count="38">police</word>
+	<word weight="0.0025790688204153658" count="38">simon</word>
+	<word weight="0.002511198588299172" count="37">jones</word>
+	<word weight="0.002511198588299172" count="37">cop</word>
+	<word weight="0.0024433283561829783" count="36">woo</word>
+	<word weight="0.0024433283561829783" count="36">agent</word>
+	<phrase weight="0.005766458433445459" count="12">van damme</phrase>
+	<phrase weight="0.005285920230658337" count="11">wild west</phrase>
+	<phrase weight="0.005285920230658337" count="11">martial arts</phrase>
+	<phrase weight="0.004324843825084094" count="9">hong kong</phrase>
+	<phrase weight="0.003363767419509851" count="7">wild wild west</phrase>
+	<phrase weight="0.0028832292167227293" count="6">blade squad</phrase>
+	<phrase weight="0.0028832292167227293" count="6">con air</phrase>
+	<phrase weight="0.002402691013935608" count="5">fbi agent</phrase>
+	<phrase weight="0.002402691013935608" count="5">jackie chan</phrase>
+	<phrase weight="0.0019221528111484864" count="4">mod squad</phrase>
+	<phrase weight="0.0019221528111484864" count="4">clint eastwood</phrase>
+	<phrase weight="0.0019221528111484864" count="4">jean-claude van damme</phrase>
+	<phrase weight="0.0019221528111484864" count="4">mercury rising</phrase>
+	<phrase weight="0.0019221528111484864" count="4">plunkett macleane</phrase>
+	<phrase weight="0.0014416146083613647" count="3">tomb raider</phrase>
+	<phrase weight="0.0014416146083613647" count="3">van damme's</phrase>
+	<phrase weight="0.0014416146083613647" count="3">indiana jones</phrase>
+	<phrase weight="0.0014416146083613647" count="3">james woods</phrase>
+	<phrase weight="0.0014416146083613647" count="3">carpenter's vampires</phrase>
+	<phrase weight="0.0014416146083613647" count="3">civil action</phrase>
+  </topic>
+  <topic id="6" alpha="0.14046397277112346" totalTokens="13779" titles="comedy, funny, jokes, humor, murphy, eddie, brothers, gags, carrey, laughs">
+	<word weight="0.01270048624718775" count="175">comedy</word>
+	<word weight="0.01117642789752522" count="154">funny</word>
+	<word weight="0.007692865955439437" count="106">jokes</word>
+	<word weight="0.0054430655345090355" count="75">humor</word>
+	<word weight="0.005370491327382249" count="74">murphy</word>
+	<word weight="0.005370491327382249" count="74">eddie</word>
+	<word weight="0.004717323463241164" count="65">brothers</word>
+	<word weight="0.003773858770592931" count="52">gags</word>
+	<word weight="0.003628710356339357" count="50">carrey</word>
+	<word weight="0.00355613614921257" count="49">laughs</word>
+	<word weight="0.003193265113578634" count="44">team</word>
+	<word weight="0.0030481166993250597" count="42">jim</word>
+	<word weight="0.0028303940779446984" count="39">professor</word>
+	<word weight="0.0028303940779446984" count="39">chris</word>
+	<word weight="0.002757819870817911" count="38">football</word>
+	<word weight="0.002757819870817911" count="38">comic</word>
+	<word weight="0.002757819870817911" count="38">flubber</word>
+	<word weight="0.002612671456564337" count="36">coach</word>
+	<word weight="0.00254009724943755" count="35">league</word>
+	<word weight="0.0024675230423107626" count="34">sandler</word>
+	<phrase weight="0.006951340615690168" count="14">eddie murphy</phrase>
+	<phrase weight="0.003972194637537239" count="8">adam sandler</phrase>
+	<phrase weight="0.003475670307845084" count="7">beverly hills</phrase>
+	<phrase weight="0.0029791459781529296" count="6">varsity blues</phrase>
+	<phrase weight="0.0024826216484607746" count="5">blues brothers</phrase>
+	<phrase weight="0.0024826216484607746" count="5">der beek</phrase>
+	<phrase weight="0.0024826216484607746" count="5">ace ventura</phrase>
+	<phrase weight="0.0024826216484607746" count="5">jim carrey</phrase>
+	<phrase weight="0.0019860973187686196" count="4">sgt bilko</phrase>
+	<phrase weight="0.0019860973187686196" count="4">saving silverman</phrase>
+	<phrase weight="0.0019860973187686196" count="4">jay silent bob</phrase>
+	<phrase weight="0.0019860973187686196" count="4">chris rock</phrase>
+	<phrase weight="0.0014895729890764648" count="3">jay silent</phrase>
+	<phrase weight="0.0014895729890764648" count="3">charlie irene</phrase>
+	<phrase weight="0.0014895729890764648" count="3">bill murray</phrase>
+	<phrase weight="0.0014895729890764648" count="3">paul reubens</phrase>
+	<phrase weight="0.0014895729890764648" count="3">austin powers</phrase>
+	<phrase weight="0.0014895729890764648" count="3">chris farley</phrase>
+	<phrase weight="0.0014895729890764648" count="3">american pie</phrase>
+	<phrase weight="0.0014895729890764648" count="3">jay silent bob strike</phrase>
+  </topic>
+  <topic id="7" alpha="0.10560224260268689" totalTokens="10870" titles="batman, joe, robin, tom, ryan, patch, schumacher, joel, cage, mother">
+	<word weight="0.012419503219871205" count="135">batman</word>
+	<word weight="0.008831646734130635" count="96">joe</word>
+	<word weight="0.007543698252069918" count="82">robin</word>
+	<word weight="0.005519779208831647" count="60">tom</word>
+	<word weight="0.0052437902483900645" count="57">ryan</word>
+	<word weight="0.0046918123275069" count="51">patch</word>
+	<word weight="0.004323827046918124" count="47">schumacher</word>
+	<word weight="0.003495860165593376" count="38">joel</word>
+	<word weight="0.003311867525298988" count="36">cage</word>
+	<word weight="0.0031278748850045997" count="34">mother</word>
+	<word weight="0.0030358785648574057" count="33">alicia</word>
+	<word weight="0.0029438822447102114" count="32">love</word>
+	<word weight="0.0028518859245630175" count="31">welles</word>
+	<word weight="0.0028518859245630175" count="31">daughter</word>
+	<word weight="0.0027598896044158236" count="30">meg</word>
+	<word weight="0.002667893284268629" count="29">romantic</word>
+	<word weight="0.002667893284268629" count="29">father</word>
+	<word weight="0.0025758969641214353" count="28">romance</word>
+	<word weight="0.0025758969641214353" count="28">death</word>
+	<word weight="0.002483900643974241" count="27">young</word>
+	<phrase weight="0.014275517487508922" count="20">batman robin</phrase>
+	<phrase weight="0.004996431120628123" count="7">poison ivy</phrase>
+	<phrase weight="0.004282655246252677" count="6">joel schumacher</phrase>
+	<phrase weight="0.004282655246252677" count="6">meg ryan</phrase>
+	<phrase weight="0.004282655246252677" count="6">robin williams</phrase>
+	<phrase weight="0.0028551034975017845" count="4">bye bye</phrase>
+	<phrase weight="0.0028551034975017845" count="4">mighty joe</phrase>
+	<phrase weight="0.0028551034975017845" count="4">alicia silverstone</phrase>
+	<phrase weight="0.0028551034975017845" count="4">patch adams</phrase>
+	<phrase weight="0.0028551034975017845" count="4">uma thurman</phrase>
+	<phrase weight="0.0028551034975017845" count="4">freddie prinze</phrase>
+	<phrase weight="0.0028551034975017845" count="4">lisa kudrow</phrase>
+	<phrase weight="0.0028551034975017845" count="4">cruel intentions</phrase>
+	<phrase weight="0.0021413276231263384" count="3">jakob liar</phrase>
+	<phrase weight="0.0021413276231263384" count="3">brad pitt</phrase>
+	<phrase weight="0.0021413276231263384" count="3">matthew modine</phrase>
+	<phrase weight="0.0021413276231263384" count="3">message bottle</phrase>
+	<phrase weight="0.0014275517487508922" count="2">lawrence kasdan</phrase>
+	<phrase weight="0.0014275517487508922" count="2">tom welles nicolas cage</phrase>
+	<phrase weight="0.0014275517487508922" count="2">nicole kidman</phrase>
+  </topic>
+  <topic id="8" alpha="0.11600303191450487" totalTokens="10210" titles="reeves, keanu, lynch, deep, space, impact, armageddon, disaster, freeman, earth">
+	<word weight="0.004701273261508325" count="48">reeves</word>
+	<word weight="0.003623898139079334" count="37">keanu</word>
+	<word weight="0.0033300685602350635" count="34">lynch</word>
+	<word weight="0.0033300685602350635" count="34">deep</word>
+	<word weight="0.0033300685602350635" count="34">space</word>
+	<word weight="0.0032321253672869736" count="33">impact</word>
+	<word weight="0.0031341821743388833" count="32">armageddon</word>
+	<word weight="0.002938295788442703" count="30">disaster</word>
+	<word weight="0.0028403525954946132" count="29">freeman</word>
+	<word weight="0.0028403525954946132" count="29">earth</word>
+	<word weight="0.0025465230166503428" count="26">joan</word>
+	<word weight="0.0025465230166503428" count="26">harry</word>
+	<word weight="0.002448579823702253" count="25">dvd</word>
+	<word weight="0.0023506366307541626" count="24">comet</word>
+	<word weight="0.0022526934378060723" count="23">morgan</word>
+	<word weight="0.0022526934378060723" count="23">version</word>
+	<word weight="0.0022526934378060723" count="23">theatrical</word>
+	<word weight="0.0021547502448579824" count="22">war</word>
+	<word weight="0.0019588638589618022" count="20">slater</word>
+	<word weight="0.0018609206660137121" count="19">johnny</word>
+	<phrase weight="0.012977099236641221" count="17">keanu reeves</phrase>
+	<phrase weight="0.003816793893129771" count="5">tectonic plates</phrase>
+	<phrase weight="0.003816793893129771" count="5">morgan freeman</phrase>
+	<phrase weight="0.0030534351145038168" count="4">dante's peak</phrase>
+	<phrase weight="0.0030534351145038168" count="4">mommie dearest</phrase>
+	<phrase weight="0.0022900763358778627" count="3">deep impact</phrase>
+	<phrase weight="0.0022900763358778627" count="3">oil tanker</phrase>
+	<phrase weight="0.0022900763358778627" count="3">christian slater</phrase>
+	<phrase weight="0.0022900763358778627" count="3">terrence malick</phrase>
+	<phrase weight="0.0022900763358778627" count="3">faye dunaway</phrase>
+	<phrase weight="0.0022900763358778627" count="3">monty python</phrase>
+	<phrase weight="0.0015267175572519084" count="2">sandra bullock</phrase>
+	<phrase weight="0.0015267175572519084" count="2">alive ditto affleck</phrase>
+	<phrase weight="0.0015267175572519084" count="2">helen mirren</phrase>
+	<phrase weight="0.0015267175572519084" count="2">wyatt earp</phrase>
+	<phrase weight="0.0015267175572519084" count="2">joan arc</phrase>
+	<phrase weight="0.0015267175572519084" count="2">pearl harbor</phrase>
+	<phrase weight="0.0015267175572519084" count="2">helen slater</phrase>
+	<phrase weight="0.0015267175572519084" count="2">element armageddon steroid user's</phrase>
+	<phrase weight="0.0015267175572519084" count="2">buscemi's character-the wiseass-is</phrase>
+  </topic>
+  <topic id="9" alpha="1.9035211256451823" totalTokens="167411" titles="film, movie, it's, good, time, bad, character, story, characters, plot">
+	<word weight="0.023833559324058753" count="3990">film</word>
+	<word weight="0.018206688927250896" count="3048">movie</word>
+	<word weight="0.010799768235062212" count="1808">it's</word>
+	<word weight="0.006737908500636159" count="1128">good</word>
+	<word weight="0.0066423353304143696" count="1112">time</word>
+	<word weight="0.006074869632222494" count="1017">bad</word>
+	<word weight="0.005310284270448179" count="889">character</word>
+	<word weight="0.005292364301031593" count="886">story</word>
+	<word weight="0.005154977868837771" count="863">characters</word>
+	<word weight="0.0050175914366439485" count="840">plot</word>
+	<word weight="0.0048144984499226455" count="806">make</word>
+	<word weight="0.0039662865642042635" count="664">doesn't</word>
+	<word weight="0.00388863336339906" count="651">people</word>
+	<word weight="0.003882660040260198" count="650">don't</word>
+	<word weight="0.0038527934245658887" count="645">scene</word>
+	<word weight="0.003769166900621823" count="631">films</word>
+	<word weight="0.0037213803155109284" count="623">scenes</word>
+	<word weight="0.0034167408354289744" count="572">he's</word>
+	<word weight="0.0033749275734569414" count="565">man</word>
+	<word weight="0.0032853277263740137" count="550">movies</word>
+	<phrase weight="2.5378295213019064E-4" count="8">bad movie</phrase>
+	<phrase weight="2.5378295213019064E-4" count="8">years ago</phrase>
+	<phrase weight="2.2206008311391682E-4" count="7">bad guys</phrase>
+	<phrase weight="1.90337214097643E-4" count="6">small town</phrase>
+	<phrase weight="1.90337214097643E-4" count="6">bad guy</phrase>
+	<phrase weight="1.90337214097643E-4" count="6">motion picture</phrase>
+	<phrase weight="1.90337214097643E-4" count="6">rest film</phrase>
+	<phrase weight="1.90337214097643E-4" count="6">screen time</phrase>
+	<phrase weight="1.5861434508136917E-4" count="5">end result</phrase>
+	<phrase weight="1.5861434508136917E-4" count="5">falls love</phrase>
+	<phrase weight="1.5861434508136917E-4" count="5">runs rated</phrase>
+	<phrase weight="1.5861434508136917E-4" count="5">film called</phrase>
+	<phrase weight="1.5861434508136917E-4" count="5">fall love</phrase>
+	<phrase weight="1.5861434508136917E-4" count="5">director john</phrase>
+	<phrase weight="1.5861434508136917E-4" count="5">special effects</phrase>
+	<phrase weight="1.5861434508136917E-4" count="5">main character</phrase>
+	<phrase weight="1.5861434508136917E-4" count="5">camera work</phrase>
+	<phrase weight="1.5861434508136917E-4" count="5">it's bad</phrase>
+	<phrase weight="1.5861434508136917E-4" count="5">big screen</phrase>
+	<phrase weight="1.2689147606509532E-4" count="4">good performance</phrase>
+  </topic>
+</topics>
